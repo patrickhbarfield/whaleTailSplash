@@ -1,2 +1,3 @@
 # whaleTailSplash
-simple looping splash page
+simple looping splash page.
+
